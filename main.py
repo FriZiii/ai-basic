@@ -10,14 +10,8 @@ class Data:
         self.normalized = []
         self.training = []
         self.validation = []
-
-    def __str__(self) -> str:
-        a = ""
-        for d, i in enumerate(self.data):
-            a += f"{d}: {i} \n"
-        return a
     
-    def randomise(self):
+    def randomize(self):
         shuffled = []
         for x in range(len(self.data)):
             i = random.randint(0, len(self.data)-1)
@@ -56,20 +50,27 @@ class Data:
         self.validation = self.data[:k]
         self.training = self.data[k:]
 
+    def show(self, var):
+        a = ""
+        for d, i in enumerate(var):
+            a += f"{d}: {i} \n"
+        print(a)
 
 
-iris = Data('E:\Studia\AI\iris.csv')
-iris.randomise()
+
+iris = Data('E:\Studia\AI\\ai-basic\iris.csv')
+iris.randomize()
 iris.normalize()
 iris.distribution(70)
 
-df = pd.DataFrame(iris.data, columns=["sepal.length","sepal.width","petal.length","petal.width","variety"])
-df_validation = pd.DataFrame(iris.validation, columns=["sepal.length","sepal.width","petal.length","petal.width","variety"])
-df_training = pd.DataFrame(iris.training, columns=["sepal.length","sepal.width","petal.length","petal.width","variety"])
+iris.show(iris.validation)
+iris.show(iris.training)
 
-figure, axis = plt.subplots(1, 3)
-
-sb.pairplot(df , hue="variety")
-sb.pairplot(df_training , hue="variety")
-sb.pairplot(df_validation , hue="variety")
-plt.show()
+#df = pd.DataFrame(iris.data, columns=["sepal.length","sepal.width","petal.length","petal.width","variety"])
+#df_validation = pd.DataFrame(iris.validation, columns=["sepal.length","sepal.width","petal.length","petal.width","variety"])
+#df_training = pd.DataFrame(iris.training, columns=["sepal.length","sepal.width","petal.length","petal.width","variety"])
+#figure, axis = plt.subplots(1, 3)
+#sb.pairplot(df , hue="variety")
+#sb.pairplot(df_training , hue="variety")
+#sb.pairplot(df_validation , hue="variety")
+#plt.show()
