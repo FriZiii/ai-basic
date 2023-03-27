@@ -14,6 +14,9 @@ class Data:
         self.validation = []
     
     def randomize(self):
+        """
+        The function shuffles the dataset.
+        """
         shuffled = []
         for x in range(len(self.data)):
             i = random.randint(0, len(self.data)-1)
@@ -22,6 +25,9 @@ class Data:
         self.data = shuffled
 
     def normalize(self):
+        """
+        The function normalizes the data from the array of arrays to the range 0.1
+        """
         minmax = []
         for i in range(len(self.data[0])):
             min_val = None
@@ -63,6 +69,10 @@ class KNN:
         self.training = training_set
     
     def _metric(self, x, y, m):
+        """
+        The function returns the Minkowski distances between two vectors.
+        The arguments x and y are a vector, and m is an integer denoting the degree of the metric.
+        """
         if len(x) != len(y):
             raise ValueError("The given vectors are not of the same length")
         addition = 0
@@ -73,6 +83,11 @@ class KNN:
         return pow(addition, 1/m)
     
     def classify(self, value, k, m):
+        """
+        The function, based on the knn algorithm, determines to which of the classes the given object belongs.
+        The arguments value is the object to be classified, k defines the number of nearest neighbors, and m the degree of the metric.
+        In the event of an undefined situation, logs are saved.
+        """
         lengths = []
         for x in self.training:
             lengths.append([self._metric(value, x, m), x[-1:]])
@@ -97,6 +112,10 @@ class KNN:
             return random.choice(max_keys)
     
     def accuracy(self, validation_set, k, m):
+        """
+        The function calculates the accuracy of the algorithm for the validation set and returns it as a percentage.
+        The function takes arrays of arrays as a validation set, and k defining the number of nearest neighbors and m as the degree of the metric.
+        """
         counter = 0
         denominator = len(validation_set)
         for x in validation_set:
