@@ -1,0 +1,1743 @@
+Call 0: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 1: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 2: Function started
+Call 3: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 4: Function started
+Call 5: Function started
+Call 6: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 7: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 8: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 9: Function started
+A random value was assumed. For [0.5555555555555555, 0.3333333333333332, 0.6949152542372881, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 10: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 11: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 12: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 13: Function started
+Call 14: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 15: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 16: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 17: Function started
+Call 18: Function started
+Call 19: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 20: Function started
+Call 21: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 22: Function started
+Call 23: Function started
+Call 24: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 25: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 26: Function started
+Call 27: Function started
+Call 28: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 29: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 30: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 31: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 32: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 33: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 34: Function started
+Call 35: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 36: Function started
+Call 37: Function started
+Call 38: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 39: Function started
+Call 40: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 41: Function started
+Call 42: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 43: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 44: Function started
+Call 45: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 46: Function started
+Call 47: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 48: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 49: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 50: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 51: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 52: Function started
+Call 53: Function started
+Call 54: Function started
+Call 55: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 56: Function started
+Call 57: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 58: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 59: Function started
+Call 60: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 61: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 62: Function started
+Call 63: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 64: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 65: Function started
+Call 66: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 67: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 68: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 69: Function started
+Call 70: Function started
+Call 71: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 72: Function started
+Call 73: Function started
+Call 74: Function started
+Call 75: Function started
+Call 76: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 77: Function started
+Call 78: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 79: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 80: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 81: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 82: Function started
+Call 83: Function started
+Call 84: Function started
+Call 85: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 86: Function started
+Call 87: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 88: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 89: Function started
+Call 90: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 91: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 92: Function started
+Call 93: Function started
+Call 94: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 95: Function started
+Call 96: Function started
+Call 97: Function started
+Call 98: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 99: Function started
+Call 100: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 101: Function started
+Call 102: Function started
+Call 103: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 104: Function started
+Call 105: Function started
+Call 106: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 107: Function started
+Call 108: Function started
+Call 109: Function started
+Call 110: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 111: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 112: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 113: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.2916666666666667, 0.6949152542372881, 0.625, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 114: Function started
+Call 115: Function started
+Call 116: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 117: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 118: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 119: Function started
+Call 120: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 121: Function started
+Call 122: Function started
+Call 123: Function started
+Call 124: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 125: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 126: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 127: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 128: Function started
+Call 129: Function started
+Call 130: Function started
+Call 131: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 132: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 133: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 134: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 135: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 136: Function started
+Call 137: Function started
+Call 138: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 139: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 140: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 141: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 142: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 143: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 144: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 145: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 146: Function started
+Call 147: Function started
+Call 148: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 149: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 150: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 151: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 152: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 153: Function started
+Call 154: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 155: Function started
+Call 156: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 157: Function started
+Call 158: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 159: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 160: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 161: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 162: Function started
+Call 163: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 164: Function started
+Call 165: Function started
+A random value was assumed. For [0.5555555555555555, 0.3333333333333332, 0.6949152542372881, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 166: Function started
+Call 167: Function started
+Call 168: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 169: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 170: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 171: Function started
+Call 172: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 173: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 174: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 175: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 176: Function started
+A random value was assumed. For [0.4722222222222222, 0.2916666666666667, 0.6949152542372881, 0.625, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 177: Function started
+Call 178: Function started
+Call 179: Function started
+Call 180: Function started
+Call 181: Function started
+Call 182: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 183: Function started
+Call 184: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 185: Function started
+Call 186: Function started
+Call 187: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 188: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 189: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 190: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 191: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 192: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.44444444444444453, 0.41666666666666663, 0.6949152542372881, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5277777777777778, 0.3333333333333332, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 193: Function started
+Call 194: Function started
+Call 195: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 196: Function started
+Call 197: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 198: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 199: Function started
+Call 200: Function started
+Call 201: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4999999999999999, 0.41666666666666663, 0.6610169491525424, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5555555555555555, 0.2916666666666667, 0.6610169491525424, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 202: Function started
+Call 203: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 204: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 205: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 206: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 207: Function started
+Call 208: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 209: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 210: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 211: Function started
+Call 212: Function started
+Call 213: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 214: Function started
+Call 215: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 216: Function started
+Call 217: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 218: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 219: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 220: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 221: Function started
+Call 222: Function started
+A random value was assumed. For [0.5555555555555555, 0.3333333333333332, 0.6949152542372881, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 223: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 224: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 225: Function started
+Call 226: Function started
+Call 227: Function started
+Call 228: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 229: Function started
+Call 230: Function started
+Call 231: Function started
+Call 232: Function started
+Call 233: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 234: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 235: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 236: Function started
+Call 237: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 238: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 239: Function started
+Call 240: Function started
+Call 241: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 242: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 243: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 244: Function started
+Call 245: Function started
+Call 246: Function started
+Call 247: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 248: Function started
+Call 249: Function started
+Call 250: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 251: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 252: Function started
+Call 253: Function started
+Call 254: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 255: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 256: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 257: Function started
+Call 258: Function started
+Call 259: Function started
+Call 260: Function started
+Call 261: Function started
+Call 262: Function started
+Call 263: Function started
+Call 264: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 265: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 266: Function started
+Call 267: Function started
+Call 268: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 269: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 270: Function started
+A random value was assumed. For [0.5277777777777778, 0.3333333333333332, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 271: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 272: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 273: Function started
+Call 274: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 275: Function started
+Call 276: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 277: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 278: Function started
+Call 279: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 280: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 281: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 282: Function started
+Call 283: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 284: Function started
+Call 285: Function started
+Call 286: Function started
+Call 287: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 288: Function started
+Call 289: Function started
+Call 290: Function started
+Call 291: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 292: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 293: Function started
+Call 294: Function started
+Call 295: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 296: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 297: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 298: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 299: Function started
+Call 300: Function started
+Call 301: Function started
+Call 302: Function started
+Call 303: Function started
+Call 304: Function started
+Call 305: Function started
+Call 306: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 307: Function started
+Call 308: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 309: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 310: Function started
+A random value was assumed. For [0.4999999999999999, 0.41666666666666663, 0.6610169491525424, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 311: Function started
+Call 312: Function started
+Call 313: Function started
+Call 314: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 315: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 316: Function started
+Call 317: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 318: Function started
+Call 319: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 320: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 321: Function started
+Call 322: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 323: Function started
+Call 324: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 325: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 326: Function started
+Call 327: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 328: Function started
+Call 329: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 330: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 331: Function started
+Call 332: Function started
+Call 333: Function started
+Call 334: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 335: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 336: Function started
+A random value was assumed. For [0.4722222222222222, 0.2916666666666667, 0.6949152542372881, 0.625, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 337: Function started
+Call 338: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 339: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 340: Function started
+Call 341: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 342: Function started
+Call 343: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 344: Function started
+Call 345: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 346: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 347: Function started
+Call 348: Function started
+Call 349: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 350: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 351: Function started
+Call 352: Function started
+Call 353: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 354: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 355: Function started
+Call 356: Function started
+Call 357: Function started
+A random value was assumed. For [0.361111111111111, 0.3333333333333332, 0.6610169491525424, 0.7916666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 358: Function started
+Call 359: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 360: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 361: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 362: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 363: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 364: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 365: Function started
+Call 366: Function started
+Call 367: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 368: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 369: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 370: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 371: Function started
+Call 372: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 373: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 374: Function started
+Call 375: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 376: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 377: Function started
+Call 378: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 379: Function started
+Call 380: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 381: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 382: Function started
+Call 383: Function started
+Call 384: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 385: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 386: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 387: Function started
+Call 388: Function started
+Call 389: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 390: Function started
+Call 391: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 392: Function started
+Call 393: Function started
+Call 394: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 395: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 396: Function started
+Call 397: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 398: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 399: Function started
+Call 400: Function started
+Call 401: Function started
+Call 402: Function started
+Call 403: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 404: Function started
+Call 405: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 406: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 407: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 408: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 409: Function started
+Call 410: Function started
+Call 411: Function started
+Call 412: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 413: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 414: Function started
+A random value was assumed. For [0.4722222222222222, 0.2916666666666667, 0.6949152542372881, 0.625, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 415: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 416: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 417: Function started
+Call 418: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 419: Function started
+Call 420: Function started
+Call 421: Function started
+Call 422: Function started
+Call 423: Function started
+A random value was assumed. For [0.4999999999999999, 0.41666666666666663, 0.6610169491525424, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5277777777777778, 0.3333333333333332, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 424: Function started
+Call 425: Function started
+Call 426: Function started
+Call 427: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 428: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 429: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 430: Function started
+Call 431: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 432: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 433: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 434: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 435: Function started
+Call 436: Function started
+Call 437: Function started
+A random value was assumed. For [0.5277777777777778, 0.3333333333333332, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 438: Function started
+Call 439: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 440: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 441: Function started
+Call 442: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 443: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 444: Function started
+Call 445: Function started
+Call 446: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 447: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 448: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 449: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 450: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 451: Function started
+Call 452: Function started
+Call 453: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 454: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 455: Function started
+Call 456: Function started
+Call 457: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 458: Function started
+Call 459: Function started
+Call 460: Function started
+Call 461: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 462: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 463: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 464: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 465: Function started
+Call 466: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 467: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 468: Function started
+A random value was assumed. For [0.5277777777777778, 0.3333333333333332, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 469: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 470: Function started
+Call 471: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 472: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 473: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 474: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 475: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 476: Function started
+Call 477: Function started
+Call 478: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 479: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 480: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 481: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.4583333333333333, 0.6271186440677966, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.7499999999999999, 0.5, 0.6271186440677966, 0.5416666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 482: Function started
+Call 483: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 484: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 485: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 486: Function started
+Call 487: Function started
+Call 488: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 489: Function started
+Call 490: Function started
+Call 491: Function started
+Call 492: Function started
+Call 493: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 494: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 495: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 496: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 497: Function started
+Call 498: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 499: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 500: Function started
+Call 501: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 502: Function started
+Call 503: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 504: Function started
+Call 505: Function started
+Call 506: Function started
+Call 507: Function started
+Call 508: Function started
+Call 509: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 510: Function started
+Call 511: Function started
+Call 512: Function started
+Call 513: Function started
+Call 514: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 515: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 516: Function started
+Call 517: Function started
+Call 518: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 519: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 520: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 521: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 522: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 523: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 524: Function started
+Call 525: Function started
+Call 526: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 527: Function started
+Call 528: Function started
+Call 529: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 530: Function started
+Call 531: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 532: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 533: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 534: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 535: Function started
+Call 536: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 537: Function started
+Call 538: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 539: Function started
+Call 540: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 541: Function started
+Call 542: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 543: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 544: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 545: Function started
+Call 546: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 547: Function started
+Call 548: Function started
+Call 549: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 550: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 551: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 552: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 553: Function started
+A random value was assumed. For [0.6944444444444443, 0.3333333333333332, 0.6440677966101694, 0.5416666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.5416666666666665, 0.6271186440677966, 0.625, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 554: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 555: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 556: Function started
+Call 557: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 558: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 559: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 560: Function started
+Call 561: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 562: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 563: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 564: Function started
+Call 565: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 566: Function started
+Call 567: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 568: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 569: Function started
+Call 570: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 571: Function started
+Call 572: Function started
+Call 573: Function started
+Call 574: Function started
+Call 575: Function started
+Call 576: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 577: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 578: Function started
+Call 579: Function started
+Call 580: Function started
+Call 581: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 582: Function started
+Call 583: Function started
+Call 584: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 585: Function started
+Call 586: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 587: Function started
+Call 588: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 589: Function started
+Call 590: Function started
+Call 591: Function started
+Call 592: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 593: Function started
+Call 594: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 595: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 596: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 597: Function started
+Call 598: Function started
+A random value was assumed. For [0.5555555555555555, 0.2916666666666667, 0.6610169491525424, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 599: Function started
+Call 600: Function started
+A random value was assumed. For [0.5277777777777778, 0.3333333333333332, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 601: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 602: Function started
+Call 603: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 604: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 605: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 606: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 607: Function started
+Call 608: Function started
+Call 609: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 610: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 611: Function started
+Call 612: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 613: Function started
+Call 614: Function started
+A random value was assumed. For [0.44444444444444453, 0.41666666666666663, 0.6949152542372881, 0.7083333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.361111111111111, 0.3333333333333332, 0.6610169491525424, 0.7916666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 615: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 616: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 617: Function started
+Call 618: Function started
+Call 619: Function started
+Call 620: Function started
+Call 621: Function started
+Call 622: Function started
+Call 623: Function started
+Call 624: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 625: Function started
+Call 626: Function started
+Call 627: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 628: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 629: Function started
+Call 630: Function started
+Call 631: Function started
+Call 632: Function started
+Call 633: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 634: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 635: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 636: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 637: Function started
+Call 638: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 639: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 640: Function started
+Call 641: Function started
+A random value was assumed. For [0.7222222222222222, 0.4583333333333333, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 642: Function started
+Call 643: Function started
+Call 644: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 645: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 646: Function started
+Call 647: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 648: Function started
+Call 649: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 650: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 651: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 652: Function started
+Call 653: Function started
+Call 654: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 655: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 656: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 657: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 658: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 659: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5277777777777778, 0.3333333333333332, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4999999999999999, 0.41666666666666663, 0.6610169491525424, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 660: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 661: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 662: Function started
+Call 663: Function started
+Call 664: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 665: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 666: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 667: Function started
+Call 668: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 669: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 670: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 671: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 672: Function started
+Call 673: Function started
+Call 674: Function started
+Call 675: Function started
+Call 676: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 677: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 678: Function started
+Call 679: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 680: Function started
+Call 681: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 682: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 683: Function started
+Call 684: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 685: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 686: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 687: Function started
+Call 688: Function started
+Call 689: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 690: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 691: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 692: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 693: Function started
+Call 694: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 695: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 696: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 697: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 698: Function started
+Call 699: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 700: Function started
+Call 701: Function started
+Call 702: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 703: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 704: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 705: Function started
+Call 706: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 707: Function started
+Call 708: Function started
+Call 709: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 710: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 711: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 712: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 713: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 714: Function started
+Call 715: Function started
+Call 716: Function started
+Call 717: Function started
+Call 718: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 719: Function started
+Call 720: Function started
+Call 721: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 722: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 723: Function started
+Call 724: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 725: Function started
+Call 726: Function started
+Call 727: Function started
+A random value was assumed. For [0.5555555555555555, 0.5416666666666665, 0.6271186440677966, 0.625, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 728: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 729: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 730: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 731: Function started
+A random value was assumed. For [0.5555555555555555, 0.3333333333333332, 0.6949152542372881, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 732: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 733: Function started
+Call 734: Function started
+A random value was assumed. For [0.4999999999999999, 0.41666666666666663, 0.6610169491525424, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 735: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 736: Function started
+A random value was assumed. For [0.5277777777777778, 0.3333333333333332, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 737: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 738: Function started
+Call 739: Function started
+Call 740: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 741: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 742: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 743: Function started
+Call 744: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 745: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 746: Function started
+Call 747: Function started
+Call 748: Function started
+Call 749: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 750: Function started
+Call 751: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 752: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 753: Function started
+Call 754: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 755: Function started
+Call 756: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 757: Function started
+A random value was assumed. For [0.5555555555555555, 0.3333333333333332, 0.6949152542372881, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 758: Function started
+Call 759: Function started
+Call 760: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 761: Function started
+Call 762: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 763: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 764: Function started
+A random value was assumed. For [0.5555555555555555, 0.3333333333333332, 0.6949152542372881, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 765: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 766: Function started
+Call 767: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 768: Function started
+Call 769: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 770: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 771: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 772: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 773: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 774: Function started
+Call 775: Function started
+Call 776: Function started
+Call 777: Function started
+Call 778: Function started
+Call 779: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 780: Function started
+Call 781: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 782: Function started
+Call 783: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 784: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 785: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 786: Function started
+A random value was assumed. For [0.1666666666666668, 0.20833333333333331, 0.5932203389830508, 0.6666666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 787: Function started
+Call 788: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 789: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 790: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 791: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 792: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 793: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 794: Function started
+Call 795: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 796: Function started
+Call 797: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 798: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 799: Function started
+Call 800: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 801: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 802: Function started
+Call 803: Function started
+Call 804: Function started
+Call 805: Function started
+Call 806: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 807: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 808: Function started
+Call 809: Function started
+Call 810: Function started
+Call 811: Function started
+Call 812: Function started
+Call 813: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 814: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 815: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 816: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 817: Function started
+Call 818: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 819: Function started
+Call 820: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 821: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 822: Function started
+Call 823: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 824: Function started
+Call 825: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 826: Function started
+Call 827: Function started
+Call 828: Function started
+Call 829: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 830: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 831: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 832: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 833: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 834: Function started
+Call 835: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 836: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 837: Function started
+Call 838: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 839: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 840: Function started
+Call 841: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 842: Function started
+A random value was assumed. For [0.5555555555555555, 0.3333333333333332, 0.6949152542372881, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 843: Function started
+Call 844: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 845: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 846: Function started
+Call 847: Function started
+Call 848: Function started
+Call 849: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 850: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 851: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 852: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 853: Function started
+Call 854: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 855: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 856: Function started
+Call 857: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 858: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 859: Function started
+Call 860: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 861: Function started
+Call 862: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 863: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 864: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 865: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 866: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 867: Function started
+Call 868: Function started
+Call 869: Function started
+Call 870: Function started
+Call 871: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 872: Function started
+Call 873: Function started
+Call 874: Function started
+Call 875: Function started
+Call 876: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 877: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 878: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 879: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 880: Function started
+Call 881: Function started
+Call 882: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 883: Function started
+Call 884: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 885: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 886: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 887: Function started
+Call 888: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 889: Function started
+Call 890: Function started
+Call 891: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 892: Function started
+Call 893: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 894: Function started
+A random value was assumed. For [0.5555555555555555, 0.3333333333333332, 0.6949152542372881, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 895: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 896: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 897: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 898: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 899: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 900: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 901: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 902: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 903: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 904: Function started
+Call 905: Function started
+A random value was assumed. For [0.4722222222222222, 0.41666666666666663, 0.6440677966101694, 0.7083333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 906: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 907: Function started
+Call 908: Function started
+Call 909: Function started
+Call 910: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5555555555555555, 0.5416666666666665, 0.6271186440677966, 0.625, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.7222222222222222, 0.4583333333333333, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 911: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 912: Function started
+Call 913: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 914: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 915: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 916: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5555555555555555, 0.3333333333333332, 0.6949152542372881, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 917: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 918: Function started
+Call 919: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 920: Function started
+Call 921: Function started
+Call 922: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 923: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 924: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 925: Function started
+Call 926: Function started
+A random value was assumed. For [0.5555555555555555, 0.3333333333333332, 0.6949152542372881, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 927: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 928: Function started
+Call 929: Function started
+Call 930: Function started
+Call 931: Function started
+Call 932: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 933: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 934: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 935: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 936: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 937: Function started
+Call 938: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 939: Function started
+Call 940: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 941: Function started
+Call 942: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 943: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 944: Function started
+Call 945: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 946: Function started
+Call 947: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 948: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 949: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 950: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 951: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 952: Function started
+Call 953: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 954: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 955: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 956: Function started
+Call 957: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 958: Function started
+Call 959: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 960: Function started
+Call 961: Function started
+Call 962: Function started
+Call 963: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 964: Function started
+Call 965: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 966: Function started
+Call 967: Function started
+Call 968: Function started
+Call 969: Function started
+Call 970: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 971: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 972: Function started
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 973: Function started
+Call 974: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 975: Function started
+A random value was assumed. For [0.5277777777777778, 0.0833333333333334, 0.5932203389830508, 0.5833333333333334, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 976: Function started
+Call 977: Function started
+Call 978: Function started
+Call 979: Function started
+Call 980: Function started
+Call 981: Function started
+Call 982: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 983: Function started
+Call 984: Function started
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 985: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 986: Function started
+A random value was assumed. For [0.6666666666666666, 0.41666666666666663, 0.6779661016949152, 0.6666666666666666, 'Versicolor'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 987: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 988: Function started
+A random value was assumed. For [0.4722222222222222, 0.0833333333333334, 0.6779661016949152, 0.5833333333333334, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.5555555555555555, 0.20833333333333331, 0.6610169491525424, 0.5833333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+A random value was assumed. For [0.44444444444444453, 0.5, 0.6440677966101694, 0.7083333333333334, 'Versicolor'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 989: Function started
+Call 990: Function started
+Call 991: Function started
+Call 992: Function started
+A random value was assumed. For [0.4999999999999999, 0.25, 0.7796610169491525, 0.5416666666666666, 'Virginica'], there was a draw for{'Versicolor': 5, 'Virginica': 5}
+Call 993: Function started
+Call 994: Function started
+Call 995: Function started
+A random value was assumed. For [0.8055555555555556, 0.41666666666666663, 0.8135593220338982, 0.625, 'Virginica'], there was a draw for{'Virginica': 5, 'Versicolor': 5}
+Call 996: Function started
+Call 997: Function started
+Call 998: Function started
+Call 999: Function started

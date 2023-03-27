@@ -1,7 +1,9 @@
+import os
 import pandas as pd
 import seaborn as sb
 import matplotlib.pyplot as plt
 import random
+from tqdm import tqdm
 
 class Data:
     def __init__(self, path):
@@ -56,21 +58,69 @@ class Data:
             a += f"{d}: {i} \n"
         print(a)
 
+class KNN:
+    def __init__(self, training_set):
+        self.training = training_set
+    
+    def _metric(self, x, y, m):
+        if len(x) != len(y):
+            raise ValueError("The given vectors are not of the same length")
+        addition = 0
+        for i in range(len(x)):
+            if isinstance(x[i], (int, float)):
+                addition += pow(abs(x[i]-y[i]), m)
+
+        return pow(addition, 1/m)
+    
+    def classify(self, value, k, m):
+        lengths = []
+        for x in self.training:
+            lengths.append([self._metric(value, x, m), x[-1:]])
+        
+        k_nearest = sorted(lengths, key=lambda x:x[0])[:k]
+        frequency = {}
+
+        for element in k_nearest:
+            name = element[1][0]
+            if name in frequency:
+                frequency[name] += 1
+            else:
+                frequency[name] = 1
+
+        max_value = max(frequency.values())
+        max_keys = [k for k, v in frequency.items() if v == max_value]
+        if len(max_keys) == 1:
+            return max_keys[0]
+        else:
+            with open("logs.txt", "a") as logs:
+                logs.write(f"A random value was assumed. For {value}, there was a draw for{frequency}\n")
+            return random.choice(max_keys)
+    
+    def accuracy(self, validation_set, k, m):
+        counter = 0
+        denominator = len(validation_set)
+        for x in validation_set:
+            if self.classify(x, k, m) == x[-1:][0]:
+                counter+=1
+        return((counter/denominator)*100)
 
 
-iris = Data('E:\Studia\AI\\ai-basic\iris.csv')
-iris.randomize()
-iris.normalize()
-iris.distribution(70)
+if os.path.exists("logs.txt"):
+    os.remove("logs.txt")
 
-iris.show(iris.validation)
-iris.show(iris.training)
+x = 0
+l = 1000
 
-#df = pd.DataFrame(iris.data, columns=["sepal.length","sepal.width","petal.length","petal.width","variety"])
-#df_validation = pd.DataFrame(iris.validation, columns=["sepal.length","sepal.width","petal.length","petal.width","variety"])
-#df_training = pd.DataFrame(iris.training, columns=["sepal.length","sepal.width","petal.length","petal.width","variety"])
-#figure, axis = plt.subplots(1, 3)
-#sb.pairplot(df , hue="variety")
-#sb.pairplot(df_training , hue="variety")
-#sb.pairplot(df_validation , hue="variety")
-#plt.show()
+for i in tqdm(range(l)):
+    iris = Data('E:\Studia\AI\\ai-basic\iris.csv')
+    iris.randomize()
+    iris.normalize()
+    iris.distribution(30)
+
+    with open("logs.txt", "a") as logs:
+        logs.write(f"Call {i}: Function started\n")
+        knn = KNN(iris.training)
+        n = knn.accuracy(iris.validation, 10, 2)
+        x += n
+
+print(f"Accuracy {x/l}% for {l} function calls")
