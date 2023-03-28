@@ -1,4 +1,6 @@
+from math import sqrt
 import os
+import numpy as np
 import pandas as pd
 import seaborn as sb
 import matplotlib.pyplot as plt
@@ -108,7 +110,7 @@ class KNN:
             return max_keys[0]
         else:
             with open("logs.txt", "a") as logs:
-                logs.write(f"A random value was assumed. For {value}, there was a draw for{frequency}\n")
+                logs.write(f"\tA random value was assumed. For {value}, there was a draw for {frequency}\n")
             return random.choice(max_keys)
     
     def accuracy(self, validation_set, k, m):
@@ -124,22 +126,59 @@ class KNN:
         return((counter/denominator)*100)
 
 
-if os.path.exists("logs.txt"):
-    os.remove("logs.txt")
+def find_best_parameters(maxK, maxM, n):
+    """  
+    The function returns a sorted array of arrays from least to greatest accuracy, for different parameters k and m
+    
+    maxK denotes the right end of the interval for the parameter k of the nearest neighbors.
+    maxM denotes the right end of the interval parameter for the m metric parameter.
+    n is the amount n iterations for each parameter
+    """
+    if os.path.exists("logs.txt"):
+        os.remove("logs.txt")
+    result = []
+    for m in tqdm(range(1, maxM)):
+        for k in range(1, maxK):
+            sum = 0
+            xn = []
+            for itr in range(n):
+                iris = Data('E:\Studia\AI\\ai-basic\iris.csv')
+                iris.randomize()
+                iris.normalize()
+                iris.distribution(30)
 
-x = 0
-l = 1000
+                with open("logs.txt", "a") as logs:
+                    logs.write(f"Call {itr}: with k = {k} and m = {m}\n")
 
-for i in tqdm(range(l)):
-    iris = Data('E:\Studia\AI\\ai-basic\iris.csv')
-    iris.randomize()
-    iris.normalize()
-    iris.distribution(30)
+                knn = KNN(iris.training)
+                accuracy = knn.accuracy(iris.validation, k, m)
+                xn.append(accuracy)
+                sum += accuracy
 
-    with open("logs.txt", "a") as logs:
-        logs.write(f"Call {i}: Function started\n")
-        knn = KNN(iris.training)
-        n = knn.accuracy(iris.validation, 10, 2)
-        x += n
+            average = sum/n
+            standard_deviation = 0
+            for i in xn:
+                standard_deviation += pow(i - average,2)
+            result.append([m,k,round(average,2), round(sqrt(standard_deviation/n),2)])
+        result = sorted(result, key=lambda x: x[2]-x[3])
+    return result
 
-print(f"Accuracy {x/l}% for {l} function calls")
+def graph(data, k):
+    """
+    The function generates a graph for k vectors of accuracy
+    """
+    top_k = data[-k:]
+    print(top_k)
+    labels = [f"{x[0]}, {x[1]}" for x in top_k]
+    values = [x[2] for x in top_k]
+    std_devs = [x[3] for x in top_k]
+
+    values, labels, std_devs = zip(*sorted(zip(values, labels, std_devs), reverse=True))
+
+    plt.bar(labels, values, yerr=std_devs)
+    plt.xticks(rotation=90)
+    plt.show()
+
+data = find_best_parameters(10,10,25)
+greatest_accuracy = data[-1:]
+graph(data, 15)
